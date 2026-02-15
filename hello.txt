@@ -1,1 +1,2 @@
-Hello, Git! 
+Hello, Everyone! 
+My name is Talha Saqib. I am an international student. I am going to build LLMs using C libraries that I make myself in the future to reduce cost by improving efficiency of the LLMs.
