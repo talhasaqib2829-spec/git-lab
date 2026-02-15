@@ -1,1 +1,4 @@
- 
+1: git add moves changes into the staging area. Git only commits what is staged, so it’s required to choose which files/changes will be included in the next commit.
+2: git commit saves a snapshot of staged changes into the local repository history with a message. git push sends commits to GitHub, so without a commit there is nothing new to push.
+3: git clone downloads a repository for the first time (history + files) into a new folder. git pull updates an existing local repository by downloading new commits from GitHub and merging them into your current branch.
+4: Check that git pull shows updates (like “Fast-forward” / files changed), then open/view the file content (type hello.txt) and/or check the latest commit with git log -1.
